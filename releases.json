@@ -4608,6 +4608,14 @@
       "0.12.0-1"
     ]
   },
+  "zimg": {
+    "dependency_names": [
+      "zimg"
+    ],
+    "versions": [
+      "3.0.6-1"
+    ]
+  },
   "zlib": {
     "dependency_names": [
       "zlib"

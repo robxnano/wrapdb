@@ -1,0 +1,9 @@
+[wrap-file]
+source_url = https://github.com/sekrit-twc/zimg/archive/refs/tags/release-3.0.6.zip
+source_filename = zimg-release-3.0.6.zip
+directory = zimg-release-3.0.6
+source_hash = 1ae4d5f3ba154d982270f672772db00443655dcd8f8cecd6106403ec20c194aa
+patch_directory = zimg
+
+[provide]
+dependency_names = zimg
